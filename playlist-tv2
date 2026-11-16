@@ -1,301 +1,34 @@
-https://pastebin.com/raw/N95YP7GD?fbclid=IwZXh0bgNhZW0CMTEAcGRvZgRzcnRjBmFwcF9pZA8yNzUyNTQ2OTI1OTgyNzkAAR8WU7uSqqa0iMX7YPZbmvlJosjBtHu4kS0zJ7loz-iCmxsXczTy_7x12T3qwA_aem_cFR4vgPs3a7Emm5N4U87tA
-#EXTM3U url-tvg="blank" billed-msg="Sedang dilakukan maintenance playlist, sebagian channel mungkin tidak dapat diakses untuk sementara waktu, terima kasih atas pengertiannya"
+#EXTM3U
 
-#EXTINF:0 ch-number="1" tvg-id="TVRI Nasional.id" tvg-logo="insert" group-title="Nasional",TVRI Nasional
-https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
-#EXTINF:0 ch-number="1" tvg-id="TVRI Nasional.id" tvg-logo="insert" group-title="Nasional",TVRI Nasional HD
-http://103.165.207.108:8000/play/a006/index.m3u8
-#EXTINF:0 ch-number="1" tvg-id="TVRI Nasional.id" tvg-logo="insert" group-title="Nasional",TVRI Nasional HD
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercotent.com/s/7ohhbruyonektc/IMG-20201116-WA0006.jpg?dl=0" group-title="METV", KONTAK KAMI 083157267078
+https://www.googleapis.com/drive/v3/files/1pP1BGkElcgkCLsoNlwo_BIGQIZ4d4Eo?alt=media&key=AIzaSyBZfIDpz7d3xJl6Vv9Ev4CJf-1gtb0BxQ
 
-#EXTINF:0 ch-number="3" tvg-id="insert" tvg-logo="insert" group-title="Nasional",TVRI World
-https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
-#EXTINF:0 ch-number="3" tvg-id="insert" tvg-logo="insert" group-title="Nasional",TVRI World HD
+#EXTINF:-1 tvg-logo="https://dl.dropboxuserontent.com/s/7ohihbruyonektc/IMG-20201116-WA0006.jpg?dl=0" group-title="METV", KONTAK KAMI 083157267078
+https://www.googleapis.com/drive/v3/files/1pBGkElcgkCLsoNulwo_BIGQIZ4d4Eo?alt=media&key=AIzaSyBZfIDpz7d3xJl6Vv9Ev4CJfI-1gtb0BxQ
 
-#EXTINF:0 ch-number="3" tvg-id="insert" tvg-logo="insert" group-title="Nasional",TVRI World HD
+#EXTINF:-1 tvg-logo="https://dl.dropboxusecontent.com/s/7ohihbruyonektc/IMG-20201116-WA0006.jpg?dl=0" group-title="AKUN DIBATASI", KONTAK KAMI 083157267078
+https://www.googleapis.com/drive/v3/files/1pP1BGkElcgkCLsNulwo_BIGQIZ4d4Eo?alt=media&key=AIzaSyBfIDpz7d3xJl6Vv9Ev4CJfI-1gtb0BxQ
 
-#EXTINF:0 ch-number="4" tvg-id="TVRI Sport.id" tvg-logo="insert" group-title="Nasional",TVRI Sport
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-#EXTINF:0 ch-number="4" tvg-id="TVRI Sport.id" tvg-logo="insert" group-title="Nasional",TVRI Sport HD
-http://103.4.83.65:8008/play/a055/index.m3u8
-#EXTINF:0 ch-number="4" tvg-id="TVRI Sport.id" tvg-logo="insert" group-title="Nasional",TVRI Sport HD
-http://123.253.54.61:8000/hls/a027/index.m3u8
-#EXTINF:0 ch-number="5" tvg-id="TVR Parlemen.id" tvg-logo="insert" group-title="Nasional",TVR Parlemen
-https://wowza.dpr.go.id/golive/livestream/playlist.m3u8
-#EXTINF:0 ch-number="6" tvg-id="Indonesiana.id" tvg-logo="insert" group-title="Nasional",Indonesiana TV
-https://tvstreamcast.com/indonesiana.m3u8
-#EXTINF:0 ch-number="7" tvg-id="RRI NET.id" tvg-logo="insert" group-title="Nasional",RRI NET
-https://stream-event.rri.go.id/memfs/8cec7b6a-22d6-44e6-adc6-2ee104f9f4e7.m3u8
-#EXTINF:0 ch-number="8" tvg-id="RRI VOI.id" tvg-logo="insert" group-title="Nasional",RRI Voice of Indonesia
-https://stream-event.rri.go.id/memfs/55223226-fd28-4747-a6e8-ca4891cee69e.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbousercontent.com/s/7ohihbruyonektc/IMG-20201116-WA0006.jpg?dl=0" group-title="PLAYLIST PREMIUM", KONTAK KAMI 083157267078
+https://www.googleapis.com/drive/v3/files/1pP1BGkElcgkLsoNulwo_BIGQIZ4d4Eo?alt=media&key=AIzaSyBZfIpz7d3xJl6Vv9Ev4CJfI-1gtb0BxQ
 
-#EXTINF:0 ch-number="11" tvg-id="insert" tvg-logo="insert" group-title="Nasional",Kompas TV
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercotent.com/s/7oihbruyonektc/IMG-20201116-WA0006.jpg?dl=0" group-title="DAFTAR MEMBER", KONTAK KAMI 083157267078
+https://www.googleapis.com/drive/v3/files/1pP1BGkElcgkCLsoNulwo_BIGQIZ4d4Eo?alt=media&key=AIzaSyBZfIDpz7d3xJl6Vv9Ev4CJfI-1gtb0BxQ
 
-#EXTINF:0 ch-number="11" tvg-id="insert" tvg-logo="insert" group-title="Nasional",Kompas TV
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7ohihbruonektc/IMG-20201116-WA0006.jpg?dl=0" group-title="AKTIVASI SEKARANG", KONTAK KAMI 083157267078
+https://www.googleapis.com/drivv3/files/1pP1BGkElcgkCLsoNulwo_BIGQIZ4d4Eo?alt=media&key=AIzaSyBZfIDpz7d3xJl6Vv9Ev4CJfI-1gtb0BxQBxQ
 
-#EXTINF:0 ch-number="11" tvg-id="insert" tvg-logo="insert" group-title="Nasional",Kompas TV HD
-http://103.165.207.108:8000/play/a007/index.m3u8
-#EXTINF:0 ch-number="12" tvg-id="insert" tvg-logo="insert" group-title="Nasional",BTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-https://lnd0t3b922.tenbytecdn.com/ta-sg1/90369cf5-6ac2-411d-b3d0-15fae10a2e2c/master.m3u8
-#EXTINF:0 ch-number="12" tvg-id="insert" tvg-logo="insert" group-title="Nasional",BTV
+#EXTINF:-1 tvg-logo="https://dl.dropboxusecntent.com/s/7ohihbruyonektc/IMG-20201116-WA0006.jpg?dl=0" group-title="KONTAK KAMI METV", KONTAK KAMI 083157267078
+https://www.googleis.com/drive/v3/files/1pP1BGkElcgkCLsoNulwo_BIGQIZ4d4Eo?alt=media&key=AIzaSyBZfIDpz7d3xJl6Vv9Ev4CJfI-1gtb0BxQ
 
-#EXTINF:0 ch-number="12" tvg-id="insert" tvg-logo="insert" group-title="Nasional",BTV HD
+#EXTINF:-1 tvg-logo="https://dl.dropboxuserntent.com/s/7ohruyonektc/IMG-20201116-WA0006.jpg?dl=0" group-title="WA ADMIN 082391122702", KONTAK KAMI 083157267078
+https://www.googleapis.com/drive/v3/files/11BGkElcgkCLsoNulwo_BIGQIZ4d4Eo?alt=media&key=AIzaSyfIDpz7d3xJl6Vv9Ev4CJfI-1gtb0BxQ
 
-#EXTINF:0 ch-number="14" tvg-id="insert" tvg-logo="insert" group-title="Nasional",Sin Po TV
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7ohiuyonektc/IMG-20201116-WA0006.jpg?dl=0" group-title="PLAYLIST OFF", KONTAK KAMI 083157267078
+https://www.googleapis.com/drive/v3/files/1pP1BGkElcgkCLsoNulwo_BIGQIZ4d4Eo?alt=media&key=AIzaSyBZfIDpz7d3xJl6Vv9Ev4CJfI-1gtb0BxQ
 
-#EXTINF:0 ch-number="14" tvg-id="insert" tvg-logo="insert" group-title="Nasional",Sin Po TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=19046
-#EXTINF:0 ch-number="14" tvg-id="insert" tvg-logo="insert" group-title="Nasional",Sin Po TV HD
-
-#EXTINF:0 ch-number="16" tvg-id="insert" tvg-logo="insert" group-title="Nasional",MDTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://op-flashcon-digdayahd-1.dens.tv/h/h223/index.m3u8
-#EXTINF:0 ch-number="16" tvg-id="insert" tvg-logo="insert" group-title="Nasional",MDTV HD
-
-#EXTINF:0 ch-number="16" tvg-id="insert" tvg-logo="insert" group-title="Nasional",MDTV HD
-http://103.165.207.108:8000/play/a003/index.m3u8
-#EXTINF:0 ch-number="17" tvg-id="insert" tvg-logo="insert" group-title="Nasional",Garuda TV
-https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
-#EXTINF:0 ch-number="17" tvg-id="insert" tvg-logo="insert" group-title="Nasional",Garuda TV HD
-
-#EXTINF:0 ch-number="17" tvg-id="insert" tvg-logo="insert" group-title="Nasional",Garuda TV HD
-
-#EXTINF:0 ch-number="18" tvg-id="insert" tvg-logo="insert" group-title="Nasional",CNBC Indonesia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-https://video.detik.com/livecnbc/smil:cnbctv/playlist.m3u8
-#EXTINF:0 ch-number="18" tvg-id="insert" tvg-logo="insert" group-title="Nasional",CNBC Indonesia 
-
-#EXTINF:0 ch-number="18" tvg-id="insert" tvg-logo="insert" group-title="Nasional",CNBC Indonesia HD
-
-#EXTINF:0 ch-number="19" tvg-id="insert" tvg-logo="insert" group-title="Nasional",CNN Indonesia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-https://video.detik.com/livecnn/smil:cnntv/playlist.m3u8
-#EXTINF:0 ch-number="19" tvg-id="insert" tvg-logo="insert" group-title="Nasional",CNN Indonesia
-
-#EXTINF:0 ch-number="19" tvg-id="insert" tvg-logo="insert" group-title="Nasional",CNN Indonesia HD
-
-#EXTINF:0 ch-number="20" tvg-id="insert" tvg-logo="insert" group-title="Nasional",Trans TV
-
-#EXTINF:0 ch-number="20" tvg-id="insert" tvg-logo="insert" group-title="Nasional",Trans TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-#EXTINF:0 ch-number="20" tvg-id="insert" tvg-logo="insert" group-title="Nasional",Trans TV HD
-http://123.253.54.61:8000/hls/a064/index.m3u8
-#EXTINF:0 ch-number="20" tvg-id="insert" tvg-logo="insert" group-title="Nasional",Trans TV HD
-http://103.165.207.108:8000/play/a008/index.m3u8
-#EXTINF:0 ch-number="21" tvg-id="insert" tvg-logo="insert" group-title="Nasional",Trans 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-#EXTINF:0 ch-number="21" tvg-id="insert" tvg-logo="insert" group-title="Nasional",Trans 7
-
-#EXTINF:0 ch-number="21" tvg-id="insert" tvg-logo="insert" group-title="Nasional",Trans 7 HD
-http://103.165.207.108:8000/play/a009/index.m3u8
-#EXTINF:0 ch-number="21" tvg-id="insert" tvg-logo="insert" group-title="Nasional",Trans 7 HD
-http://123.253.54.61:8000/hls/a019/index.m3u8
-#EXTINF:0 ch-number="22" tvg-id="insert" tvg-logo="insert" group-title="Nasional",Metro TV
-https://edge-medcom.streamized.net/live-edge/smil:metro.smil/playlist.m3u8
-#EXTINF:0 ch-number="22" tvg-id="insert" tvg-logo="insert" group-title="Nasional",Metro TV
-
-#EXTINF:0 ch-number="22" tvg-id="insert" tvg-logo="insert" group-title="Nasional",Metro TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8
-#EXTINF:0 ch-number="22" tvg-id="insert" tvg-logo="insert" group-title="Nasional",Metro TV HD
-
-#EXTINF:0 ch-number="23" tvg-id="insert" tvg-logo="insert" group-title="Nasional",SCTV
-
-#EXTINF:0 ch-number="23" tvg-id="insert" tvg-logo="insert" group-title="Nasional",SCTV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; MiTV-AXSO1) AppleWebKit/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://calistaiptv.my.id/indopart/play.drm?id=204&type=drm
-https://calistaiptv.my.id/indopart/play.mpd?id=204&type=dash
-#EXTINF:0 ch-number="23" tvg-id="insert" tvg-logo="insert" group-title="Nasional",SCTV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=204
-#EXTINF:0 ch-number="23" tvg-id="insert" tvg-logo="insert" group-title="Nasional",SCTV HD Digital
-http://154.18.255.121:9981/stream/channelid/1650322494?profile=pass
-#EXTINF:0 ch-number="23" tvg-id="insert" tvg-logo="insert" group-title="Nasional",SCTV HD Digital
-http://123.253.54.61:8000/hls/a00c/index.m3u8
-#EXTINF:0 ch-number="24" tvg-id="insert" tvg-logo="insert" group-title="Nasional",Indosiar
-
-#EXTINF:0 ch-number="24" tvg-id="insert" tvg-logo="insert" group-title="Nasional",Indosiar HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=205
-#EXTINF:0 ch-number="25" tvg-id="insert" tvg-logo="insert" group-title="Nasional",Indosiar HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; MiTV-AXSO1) AppleWebKit/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://calistaiptv.my.id/indopart/play.drm?id=205&type=drm
-https://calistaiptv.my.id/indopart/play.mpd?id=205&type=dash
-#EXTINF:0 ch-number="24" tvg-id="insert" tvg-logo="insert" group-title="Nasional",Indosiar HD Digital
-http://154.18.255.121:9981/stream/channelid/58596459?profile=pass
-#EXTINF:0 ch-number="24" tvg-id="insert" tvg-logo="insert" group-title="Nasional",Indosiar HD Digital
-http://123.253.54.61:8000/hls/a52/index.m3u8
-#EXTINF:0 ch-number="25" tvg-id="insert" tvg-logo="insert" group-title="Nasional",RTV
-
-#EXTINF:0 ch-number="25" tvg-id="insert" tvg-logo="insert" group-title="Nasional",RTV HD1
-
-#EXTINF:0 ch-number="25" tvg-id="insert" tvg-logo="insert" group-title="Nasional",RTV HD2
-https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
-#EXTINF:0 ch-number="26" tvg-id="insert" tvg-logo="insert" group-title="Nasional",ANTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=782
-#EXTINF:0 ch-number="26" tvg-id="insert" tvg-logo="insert" group-title="Nasional",ANTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; MiTV-AXSO1) AppleWebKit/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://calistaiptv.my.id/indopart/play.drm?id=782&type=drm
-https://calistaiptv.my.id/indopart/play.mpd?id=782&type=dash
-#EXTINF:0 ch-number="26" tvg-id="insert" tvg-logo="insert" group-title="Nasional",ANTV HD
-http://154.18.255.121:9981/stream/channelid/1738339899?profile=pass
-#EXTINF:0 ch-number="26" tvg-id="insert" tvg-logo="insert" group-title="Nasional",ANTV HD
-
-#EXTINF:0 ch-number="27" tvg-id="insert" tvg-logo="insert" group-title="Nasional",tvOne
-
-#EXTINF:0 ch-number="27" tvg-id="insert" tvg-logo="insert" group-title="Nasional",tvOne
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=783
-#EXTINF:0 ch-number="27" tvg-id="insert" tvg-logo="insert" group-title="Nasional",tvOne HD
-http://154.18.255.121:9981/stream/channelid/791042069?profile=pass
-#EXTINF:0 ch-number="28" tvg-id="insert" tvg-logo="insert" group-title="Nasional",RCTI
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
-#EXTINF:0 ch-number="28" tvg-id="insert" tvg-logo="insert" group-title="Nasional",RCTI HD
-
-#EXTINF:0 ch-number="28" tvg-id="insert" tvg-logo="insert" group-title="Nasional",RCTI
-
-#EXTINF:0 ch-number="29" tvg-id="insert" tvg-logo="insert" group-title="Nasional",RCTI WORLD
-
-#EXTINF:0 ch-number="29" tvg-id="insert" tvg-logo="insert" group-title="Nasional",MNCTV
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv
-#EXTINF:0 ch-number="29" tvg-id="insert" tvg-logo="insert" group-title="Nasional",MNCTV HD
-
-#EXTINF:0 ch-number="29" tvg-id="insert" tvg-logo="insert" group-title="Nasional",MNCTV
-
-#EXTINF:0 ch-number="29" tvg-id="insert" tvg-logo="insert" group-title="Nasional",MNCTV WORLD
-
-#EXTINF:0 ch-number="30" tvg-id="insert" tvg-logo="insert" group-title="Nasional",GTV
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
-#EXTINF:0 ch-number="30" tvg-id="insert" tvg-logo="insert" group-title="Nasional",GTV HD
-
-#EXTINF:0 ch-number="30" tvg-id="insert" tvg-logo="insert" group-title="Nasional",GTV HD
-
-#EXTINF:0 ch-number="29" tvg-id="insert" tvg-logo="insert" group-title="Nasional",GTV WORLD
-
-#EXTINF:0 ch-number="31" tvg-id="insert" tvg-logo="insert" group-title="Nasional",iNews
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
-#EXTINF:0 ch-number="31" tvg-id="insert" tvg-logo="insert" group-title="Nasional",iNews HD
-
-#EXTINF:0 ch-number="31" tvg-id="insert" tvg-logo="insert" group-title="Nasional",iNews HD
-
-#EXTINF:0 ch-number="32" tvg-id="insert" tvg-logo="insert" group-title="Nasional",Nusantara TV
-https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
-#EXTINF:0 ch-number="32" tvg-id="insert" tvg-logo="insert" group-title="Nasional",Nusantara TV HD
-
-#EXTINF:0 ch-number="32" tvg-id="insert" tvg-logo="insert" group-title="Nasional",Nusantara TV HD
-
-#EXTINF:0 ch-number="33" tvg-id="insert" tvg-logo="insert" group-title="Nasional",Harum TV
-
-#EXTINF:0 ch-number="34" tvg-id="insert" tvg-logo="insert" group-title="Nasional",Gold TV
-
-#EXTINF:0 ch-number="35" tvg-id="insert" tvg-logo="insert" group-title="Nasional",mOji
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=206
-#EXTINF:0 ch-number="35" tvg-id="insert" tvg-logo="insert" group-title="Nasional",mOji
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; MiTV-AXSO1) AppleWebKit/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://calistaiptv.my.id/indopart/play.drm?id=206&type=drm
-https://calistaiptv.my.id/indopart/play.mpd?id=206&type=dash
-#EXTINF:0 ch-number="35" tvg-id="insert" tvg-logo="insert" group-title="Nasional",mOji HD
-http://154.18.255.121:9981/stream/channelid/161972646?profile=pass
-#EXTINF:0 ch-number="35" tvg-id="insert" tvg-logo="insert" group-title="Nasional",mOji HD
-http://123.253.54.61:8000/play/a014/index.m3u8
-#EXTINF:0 ch-number="35" tvg-id="insert" tvg-logo="insert" group-title="Nasional",mOji HD
-
-#EXTINF:0 ch-number="36" tvg-id="insert" tvg-logo="insert" group-title="Nasional",Mentari TV
-
-#EXTINF:0 ch-number="36" tvg-id="insert" tvg-logo="insert" group-title="Nasional",Mentari TV HD
-http://154.18.255.121:9981/stream/channelid/1409062414?profile=pass
-#EXTINF:0 ch-number="36" tvg-id="insert" tvg-logo="insert" group-title="Nasional",Mentari TV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=8237
-#EXTINF:0 ch-number="37" tvg-id="insert" tvg-logo="insert" group-title="Nasional",VTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
-https://flv.intechmedia.net/live/ch107.m3u8
-#EXTINF:0 ch-number="37" tvg-id="insert" tvg-logo="insert" group-title="Nasional",VTV HD
-http://154.18.255.121:9981/stream/channelid/953104904?profile=pass
-#EXTINF:0 ch-number="37" tvg-id="insert" tvg-logo="insert" group-title="Nasional",VTV HD
-
-#EXTINF:0 ch-number="38" tvg-id="insert" tvg-logo="insert" group-title="Nasional",Magna Channel
-https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
-#EXTINF:0 ch-number="38" tvg-id="insert" tvg-logo="insert" group-title="Nasional",Magna Channel HD
-
-#EXTINF:0 ch-number="39" tvg-id="insert" tvg-logo="insert" group-title="Nasional",BN Channel
-#EXTVLCOPT:http-referrer=https://youtv.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://flv.intechmedia.net/live/ch112.m3u8|user-agent=Mozilla/5.0
-#EXTINF:0 ch-number="39" tvg-id="insert" tvg-logo="insert" group-title="Nasional",BN Channel HD
-
-#EXTINF:0 ch-number="44" tvg-id="insert" tvg-logo="insert" group-title="Nasional",Smile TV
-http://36.93.73.155:1919/hls/live.m3u8
-#EXTINF:0 ch-number="45" tvg-id="insert" tvg-logo="insert" group-title="Nasional",JawaPos TV Jakarta
-http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8
-#EXTINF:0 ch-number="45" tvg-id="insert" tvg-logo="insert" group-title="Nasional",JawaPos TV Surabaya
-
-#EXTINF:0 ch-number="45" tvg-id="insert" tvg-logo="insert" group-title="Nasional",JawaPos TV Semarang
-
-#EXTINF:0 ch-number="77" tvg-id="insert" tvg-logo="insert" group-title="Nasional",Jagantara TV
-https://flv.intechmedia.net/live/ch119.m3u8|user-agent=Mozilla/5.0
-#EXTINF:0 ch-number="77" tvg-id="insert" tvg-logo="insert" group-title="Nasional",Jagantara TV HD
-
-#EXTINF:0 ch-number="88" tvg-id="insert" tvg-logo="insert" group-title="Nasional",Astha TV
-https://hgmtv.com:19360/asthatv/asthatv.m3u8
-#EXTINF:0 ch-number="89" tvg-id="insert" tvg-logo="insert" group-title="Nasional",KTV
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://tvratu.my.id/oxygen/index.m3u8?id=ktv
-#EXTINF:0 ch-number="90" tvg-id="insert" tvg-logo="insert" group-title="Nasional",DAAI TV
-https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7ohihyonektc/IMG-20201116-WA0006.jpg?dl=0" group-title="PLAYLIST METV", KONTAK KAMI 083157267078
+https://www.googleapis.com/drive/v3/files/1pP1BGkElcgkCLsoNulwo_BIGQIZ4d4Eo?alt=media&key=AIzaSyBZfIDpz7d3xJl6Vv9Ev4CJfI-1gtbxQ
 
 
-=========================
-
-#EXTINF:0 ch-number="101" tvg-id="insert" tvg-logo="insert" group-title="Anak-anak",Cartoon Network
-Saluran/refs/heads/main/Anak/CH%20101.jpg",Cartoon Network
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://202.150.161.212:5000/live/channel27/playlist.m3u8
-#EXTINF:0 ch-number="102" tvg-id="insert" tvg-logo="insert" group-title="Anak-anak",Cartoonito
-
-#EXTINF:0 ch-number="103" tvg-id="insert" tvg-logo="insert" group-title="Anak-anak",Nickelodeon
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=064
-https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/index.mpd
-#EXTINF:0 ch-number="104" tvg-id="insert" tvg-logo="insert" group-title="Anak-anak",Nick Jr.
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputst
+#EXTM3U billed-msg="😎 MILIK ANUTV, SILAHKAN WA ADMIN 083157267078 😎 "
